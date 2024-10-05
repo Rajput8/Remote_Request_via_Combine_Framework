@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>App_Name</key>
+	<string>Remote Request Manager</string>
+	<key>App_Identifier</key>
+	<string>com.techwinlabs.RemoteRequestManager</string>
+	<key>AdHoc_Profile</key>
+	<string></string>
+	<key>App_Store_Profile</key>
+	<string></string>
+	<key>Development_X_API_Key</key>
+	<string></string>
+	<key>QATesting_Base_URL</key>
+	<string></string>
+	<key>QATesting_X_API_Key</key>
+	<string></string>
+	<key>App_Environment</key>
+	<dict>
+		<key>Local</key>
+		<false/>
+		<key>QATesting</key>
+		<false/>
+		<key>BetaTesting</key>
+		<false/>
+		<key>Development</key>
+		<true/>
+		<key>Production</key>
+		<false/>
+	</dict>
+	<key>Development_Base_URL</key>
+	<string>https://restcountries.com</string>
+	<key>Production_Base_URL</key>
+	<string></string>
+	<key>Media_Load_Base_URL</key>
+	<string></string>
+	<key>App_Store_ID</key>
+	<string></string>
+</dict>
+</plist>
